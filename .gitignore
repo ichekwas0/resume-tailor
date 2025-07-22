@@ -1,0 +1,16 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Django database
+db.sqlite3
+
+# Tokens and credentials
+credentials.json
+token.json
+*.pkl
+
+# VSCode settings
+.vscode/
